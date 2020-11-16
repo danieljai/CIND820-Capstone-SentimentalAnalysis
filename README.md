@@ -10,4 +10,5 @@ The dateset can be downloaded from https://ieee-dataport.org/open-access/coronav
 5. Now switch to the Add" tab, click "Select Tweet ID file" and select the modified dataset from step #2.
 6. Under "Title", give the dataset any name, then click "Add Dataset" button
 7. This brings you to the Dataset tab, click start and the hydration process will begin. Note that this will take an extended amount of time, as there is a limit to how many tweets, as per Twitter API Rate Limits, a Twitter Account can read.
-8. Once the Hydration process has complete, click "CSV" and a dialog box will pop up asking the filename of the CSV file you wish to save the results into. Give any descriptive filename.
+8. Once the hydration process has completed, click "CSV" button and a dialog box will pop up asking for a CSV filename you wish to save the results to; give any descriptive filename. Note that this file will be quite large.
+9. This CSV file is now ready for import into Python/R for further data analysis.
